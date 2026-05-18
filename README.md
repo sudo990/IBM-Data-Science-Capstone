@@ -34,5 +34,4 @@ This project follows a complete Data Science methodology, from data collection t
 - **Languages:** Python 3, SQL
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Folium, Plotly Dash, BeautifulSoup, Requests.
 
----
-*This repository serves as the official submission for the Peer-Reviewed Capstone Project.*
+
